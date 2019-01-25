@@ -7,7 +7,7 @@
  *
  * Mods Required: Bear With Me, JEI, LootTweaker
  * 
- * Author: lucidbservor
+ * Author: lucidobservor
  */
 
 import loottweaker.vanilla.loot.LootTables;

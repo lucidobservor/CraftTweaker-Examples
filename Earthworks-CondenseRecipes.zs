@@ -6,7 +6,7 @@
  *
  * Mods Required: Earthworks, JEI
  * 
- * Author: lucidbservor
+ * Author: lucidobservor
  */
 
 import crafttweaker.item.IIngredient;
