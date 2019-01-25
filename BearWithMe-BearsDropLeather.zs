@@ -1,4 +1,3 @@
-
 /*
  * By default, the mod Bear With Me adds different types of bear hide to the 
  * drops of Minecraft polar bears and the three new types of bear added by the
